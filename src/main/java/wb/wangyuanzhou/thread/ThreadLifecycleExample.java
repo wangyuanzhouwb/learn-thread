@@ -38,6 +38,7 @@ import java.util.concurrent.TimeUnit;
  * </pre>
  */
 public class ThreadLifecycleExample {
+    
     public static void main(String[] args) {
         Object lock = new Object();
 
